@@ -2,10 +2,10 @@
 
 <ProjectSettings>
   <Name value="Creatools Piano XS"/>
-  <Version value="1.0.0"/>
+  <Version value="1.0.1"/>
   <Description value="acoustic piano synth"/>
   <BundleIdentifier value="com.myCompany.product"/>
-  <PluginCode value="Abcd"/>
+  <PluginCode value="Mtcp"/>
   <EmbedAudioFiles value="Yes"/>
   <EmbedImageFiles value="Yes"/>
   <SupportFullDynamicsHLAC value="1"/>
@@ -41,4 +41,5 @@
   <CompileWithPerfetto value="No"/>
   <CompileWithDebugSymbols value="No"/>
   <IncludeLorisInFrontend value="No"/>
+  <ExtraDefinitionsNetworkDll value=""/>
 </ProjectSettings>
