@@ -22,7 +22,9 @@ Salamander piano made by Alexander Holm (CC-BY-3.0), and  Bitklavier - an openso
 How to Compile:
 
 Donwload the latest version of HISE source and compile it on your system, go to HISE repository (https://github.com/christophhart/HISE)  and follow the instructions there on how to compile it. 
-Then download the Creatools Piano XS source files, import the project on HISE and open presets ('Creatools Piano XS.hip' for plugin and/or, 'Creatools Piano XS Standalone.hip' for standalone version) and compile it by going to Export/as vst plugin or /standalone. 
+Then download the Creatools Piano XS source files, import the project on HISE and open presets ('Creatools Piano XS.hip' for plugin and/or, 'Creatools Piano XS Standalone.hip' for standalone version).  
+Find E1 Sampler under the module tree and select the icon to open the E1 Sampler in the workspace.  
+Right click the empty SampleMapEditor Monolith and select Tools -> (Re)encode all samplemaps as HLAC monolith. Verify sound is produced inside HISE. Compile it by going to Export/as vst plugin or /standalone. 
 
 more info about musictop instruments | creatools piano XS : https://musictop69.wixsite.com/creatools
 
